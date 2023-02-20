@@ -1,0 +1,4 @@
+name: himmatapp
+recipe: drupal10
+config:
+  webroot: .
